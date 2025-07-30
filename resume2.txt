@@ -1,0 +1,7 @@
+Experienced Full Stack Developer with strong proficiency in JavaScript, React, and Node.js. Familiar with RESTful APIs and database systems like MongoDB and MySQL. Proficient in Git version control and Agile methodologies. Looking to contribute to scalable software solutions.
+
+Skills:
+- JavaScript, React, Node.js
+- MongoDB, MySQL
+- REST API, Git
+- Agile, CI/CD
