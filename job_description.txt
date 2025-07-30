@@ -1,0 +1,2 @@
+We are looking for a software developer proficient in Java, Spring Boot, REST API, and Git.
+Familiarity with front-end tools, object-oriented programming, and version control is required.
