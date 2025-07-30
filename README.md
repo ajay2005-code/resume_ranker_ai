@@ -1,24 +1,27 @@
-# 🧠 Resume Ranker AI – Intelligent Resume Matching with Job Description
+# 🧠 Resume Ranker AI – Job Match Analyzer
 
-A smart Python-based tool that compares a candidate's resume to a job description and calculates a **match score** using **Natural Language Processing (NLP)** and **Cosine Similarity**. Designed to help recruiters or job seekers assess how well a resume aligns with job requirements.
+A simple yet powerful Python-based AI tool that analyzes and compares your resume against a job description using Natural Language Processing (NLP) techniques. It helps job seekers understand how closely their resume matches a job post and identifies missing keywords.
 
 ---
 
 ## 🚀 Features
 
-- ✅ Extracts and preprocesses text from resumes and job descriptions  
-- 📊 Calculates keyword similarity using **TF-IDF Vectorization**  
-- 📐 Computes **Cosine Similarity Score** to determine resume-job fit  
-- 🔍 Displays matched and missing keywords for transparency  
-- 💡 Bonus: Filters out common stop words to focus on real tech skills  
+- ✅ Calculates **Match Score (%)** using TF-IDF + Cosine Similarity
+- 🧩 Displays **matched** and **missing** keywords
+- ⚙️ Built with `scikit-learn`, `nltk`, and basic Python
+- 📄 Works with plain text resume and job description files
 
 ---
 
-## 📁 Project Structure
+## 💻 Sample Output
 
-```bash
-resume_ranker_ai/
-├── resume_ranker.py      # Main script to run the matching logic
-├── resume.txt            # Sample resume input
-├── job_description.txt   # Sample job description input
-└── README.md             # Project documentation (you are here!)
+### 🧠 Resume Match Result
+
+✅ Match Score: 5.20%
+
+✔️ Matched Keywords (2):
+java, software
+
+❌ Missing Keywords (16):
+api, boot, control, developer, familiarity, frontend, git, looking, objectoriented, proficient, programming, required, rest, spring, tools, version
+
