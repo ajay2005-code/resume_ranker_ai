@@ -15,6 +15,8 @@ A simple yet powerful Python-based AI tool that analyzes and compares your resum
 
 ## 💻 Sample Output
 
+## Example 1
+
 ### 🧠 Resume Match Result
 
 ✅ Match Score: 5.20%
@@ -25,3 +27,14 @@ java, software
 ❌ Missing Keywords (16):
 api, boot, control, developer, familiarity, frontend, git, looking, objectoriented, proficient, programming, required, rest, spring, tools, version
 
+## Example 2
+
+##🧠 Resume Match Result
+----------------------------------------
+✅ Match Score: 34.21%
+
+✔️ Matched Keywords (14):
+api, apis, cicd, control, database, developer, git, like, mongodb, nodejs, proficient, restful, systems, version
+
+❌ Missing Keywords (16):
+backend, candidate, cloud, deployment, development, experience, express, familiarity, hiring, knowledge, pipelines, plus, postgresql, postgresqlmongodb, required, using
