@@ -1,0 +1,7 @@
+We are hiring a Backend Developer with experience in Node.js and Express. The candidate should be proficient in RESTful API development, version control using Git, and have familiarity with CI/CD pipelines. Knowledge of database systems like PostgreSQL or MongoDB is required. Experience in cloud deployment is a plus.
+
+Required:
+- Node.js, Express
+- RESTful APIs, Git
+- PostgreSQL/MongoDB
+- CI/CD pipelines
